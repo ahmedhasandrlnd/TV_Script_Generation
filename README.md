@@ -11,7 +11,7 @@ The project files can be found in our [public GitHub repo](https://github.com/ud
 git clone https://github.com/udacity/deep-learning-v2-pytorch.git
 ``
 
-You may also choose to complete your project using the provided, in-classroom project notebook; this will just require that you run the project notebook, and download the complete files, as specified below.
+Since we need GPU support in this project, so we decided to complete our project using the provided, in-classroom project notebook; this will just require that we run the project notebook, and download the complete files.
 
 ## Structure of Project
 * dlnd_tv_script_generation.ipynb: Notebook of the project
